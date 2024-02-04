@@ -63,9 +63,9 @@ GEM
     safe_yaml (1.0.5)
     sass-embedded (1.70.0-aarch64-linux-android)
       google-protobuf (~> 3.25)
-    sass-embedded (1.70.0-arm-linux-androideabi)
+    sass-embedded (1.70.0-arm-linux)
       google-protobuf (~> 3.25)
-    sass-embedded (1.70.0-arm-linux-gnueabihf)
+    sass-embedded (1.70.0-arm-linux-androideabi)
       google-protobuf (~> 3.25)
     sass-embedded (1.70.0-arm-linux-musleabihf)
       google-protobuf (~> 3.25)
@@ -73,9 +73,9 @@ GEM
       google-protobuf (~> 3.25)
     sass-embedded (1.70.0-x86-linux-android)
       google-protobuf (~> 3.25)
-    sass-embedded (1.70.0-x86_64-linux-android)
+    sass-embedded (1.70.0-x86_64-linux)
       google-protobuf (~> 3.25)
-    sass-embedded (1.70.0-x86_64-linux-gnu)
+    sass-embedded (1.70.0-x86_64-linux-android)
       google-protobuf (~> 3.25)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
@@ -84,8 +84,8 @@ GEM
 
 PLATFORMS
   aarch64-linux-android
+  arm-linux
   arm-linux-androideabi
-  arm-linux-gnueabihf
   arm-linux-musleabihf
   arm64-darwin-22
   x86-linux-android
