@@ -77,11 +77,15 @@ src: ./pages/10-ocr-and-image-preprocessing.md
 
 # Что дальше?
 
---- 
+---
 
-# Ссылки на ресурсы:
+# Ссылки:
+
+- github https://github.com/zbze-org
+- страничка с проектами https://projects.zbze.org/
+- презентация https://projects.zbze.org/presentations/01_intro_for_jarez/
+- заметки, наработки https://github.com/panagoa/zbze_blog 
 
 ---
 
 # Q&A
-
